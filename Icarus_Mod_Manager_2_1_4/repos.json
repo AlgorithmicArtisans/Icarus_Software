@@ -1,0 +1,85 @@
+{
+  "name": "projects/projectdaedalus-fb09f/databases/(default)/documents/meta/repos",
+  "fields": {
+    "list": {
+      "arrayValue": {
+        "values": [
+          {
+            "stringValue": "https://github.com/DonovanMods/Icarus-Mods"
+          },
+          {
+            "stringValue": "https://github.com/Jimk72/Icarus_Mods"
+          },
+          {
+            "stringValue": "https://gitlab.floofsnetwork.xyz/icarus-modding/Mods"
+          },
+          {
+            "stringValue": "https://github.com/Venomtron/Icarus-Mods"
+          },
+          {
+            "stringValue": "https://github.com/CritFailMods/Icarus-Mods"
+          },
+          {
+            "stringValue": "https://github.com/WZG-Mods/wzg-icarus-balance-overhaul"
+          },
+          {
+            "stringValue": "https://github.com/S-e-m-a-c/Icarus-Mods"
+          },
+          {
+            "stringValue": "https://github.com/ckdextergames/Icarus_mods"
+          },
+          {
+            "stringValue": "https://github.com/zailfyer/Icarus_Mods"
+          },
+          {
+            "stringValue": "https://github.com/begginfokillz/larkwell_carepackage_Icarus"
+          },
+          {
+            "stringValue": "https://github.com/Jimk72/Icarus_Software"
+          },
+          {
+            "stringValue": "https://github.com/R3ap3r0fS0uls/Daedalus-Mods"
+          },
+          {
+            "stringValue": "https://github.com/R3ap3r0fS0uls/Daedalus"
+          },
+          {
+            "stringValue": "https://github.com/CrystalFerrai/IcarusMods"
+          },
+          {
+            "stringValue": "https://github.com/SalJam55/IcarusMods"
+          },
+          {
+            "stringValue": "https://github.com/BruteForceOAP/Shengong-Invincible"
+          },
+          {
+            "stringValue": "https://github.com/jamesburt/Modding_Icarus"
+          },
+          {
+            "stringValue": "https://github.com/laanp/Icarus_Mods_Separated"
+          },
+          {
+            "stringValue": "https://github.com/aurokon/Aurokon_Industries"
+          },
+          {
+            "stringValue": "https://github.com/CryorusTheDragon/Icarus_Mods"
+          },
+          {
+            "stringValue": "https://github.com/CrystalFerrai/IcarusMods"
+          },
+          {
+            "stringValue": "https://github.com/TheOringalIntreeg/Icarus_Mods"
+          },
+          {
+            "stringValue": "https://github.com/Sarge-85/Icarus-Mods"
+          },
+          {
+            "stringValue": "https://github.com/CorackWookie/Icarus-Mods"
+          }
+        ]
+      }
+    }
+  },
+  "createTime": "2022-12-30T00:51:11.194415Z",
+  "updateTime": "2024-04-27T03:05:59.941914Z"
+}
