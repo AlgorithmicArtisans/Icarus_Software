@@ -1,0 +1,16 @@
+{
+    "name": "This Weeks Changes",
+    "author": "Icarus Mod Manager",
+    "version": "6/10/2024",
+    "fileName": "This_Weeks_Changes",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
+

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Icarus">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Icarus_Mod_Manager_2_1_2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Skins_Folder.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Icarus_Mod_Manager_2_1_4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DUMP Week 122.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DUMP_Week_125.zip!/" />
+      <root url="jar://$PROJECT_DIR$/IcarusModEditorVer3_9.zip!/" />
+      <root url="jar://$PROJECT_DIR$/UnrealPak.zip!/" />
+      <root url="jar://$PROJECT_DIR$/data.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

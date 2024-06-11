@@ -1,0 +1,353 @@
+﻿Log file open, 06/10/24 22:19:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 18 total threads with 1 sets of task threads.
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' does not exist
+LogInit: Display: Loading text-based GConfig....
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 3080 Ti
+LogInit: Compiled (64-bit): Aug 13 2021 06:39:45
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: "C:\Program Files (x86)\Steam\steamapps\common\Icarus\Icarus\Content\Data\data.pak" -extract C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data
+LogInit: Base Directory: C:/WorkSpace/Icarus/UnrealPak/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Engine/Programs/UnrealPak/Saved/Config/Windows/Engine.ini]
+[2024.06.11-05.19.06:218][  0]LogInit: Computer: JANTONST-WS1
+[2024.06.11-05.19.06:218][  0]LogInit: User: Brackman
+[2024.06.11-05.19.06:218][  0]LogInit: CPU Page size=4096, Cores=8
+[2024.06.11-05.19.06:218][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.06.11-05.19.06:218][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2024.06.11-05.19.06:218][  0]LogMemory: Platform Memory Stats for Windows
+[2024.06.11-05.19.06:218][  0]LogMemory: Process Physical Memory: 20.84 MB used, 20.84 MB peak
+[2024.06.11-05.19.06:218][  0]LogMemory: Process Virtual Memory: 52.47 MB used, 52.47 MB peak
+[2024.06.11-05.19.06:218][  0]LogMemory: Physical Memory: 13671.65 MB used,  19009.41 MB free, 32681.05 MB total
+[2024.06.11-05.19.06:218][  0]LogMemory: Virtual Memory: 134196488.00 MB used,  21239.95 MB free, 134217728.00 MB total
+[2024.06.11-05.19.06:218][  0]LogInit: Using OS detected language ().
+[2024.06.11-05.19.06:218][  0]LogInit: Using OS detected locale ().
+[2024.06.11-05.19.06:218][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2024.06.11-05.19.06:218][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2024.06.11-05.19.06:218][  0]LogInit: Using OS detected language ().
+[2024.06.11-05.19.06:218][  0]LogInit: Using OS detected locale ().
+[2024.06.11-05.19.06:218][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2024.06.11-05.19.06:218][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2024.06.11-05.19.06:218][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2024.06.11-05.19.06:218][  0]LogPakFile: Display: Using command line for crypto configuration
+[2024.06.11-05.19.06:219][  0]LogPakFile: PakFile PrimaryIndexSize=6395
+[2024.06.11-05.19.06:219][  0]LogPakFile: PakFile PathHashIndexSize=3188
+[2024.06.11-05.19.06:219][  0]LogPakFile: PakFile FullDirectoryIndexSize=9112
+[2024.06.11-05.19.06:219][  0]LogPakFile: Display: Extracted "DataTableMetadata.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/DataTableMetadata.json" Offset 303810.
+[2024.06.11-05.19.06:220][  0]LogPakFile: Display: Extracted "Accolades/D_Accolades.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Accolades/D_Accolades.json" Offset 0.
+[2024.06.11-05.19.06:221][  0]LogPakFile: Display: Extracted "AI/D_AICreatureType.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_AICreatureType.json" Offset 15331.
+[2024.06.11-05.19.06:221][  0]LogPakFile: Display: Extracted "AI/D_AIDescriptors.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_AIDescriptors.json" Offset 18997.
+[2024.06.11-05.19.06:231][  0]LogPakFile: Display: Extracted "AI/D_AIEvents.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_AIEvents.json" Offset 19361.
+[2024.06.11-05.19.06:232][  0]LogPakFile: Display: Extracted "AI/D_AIGrowth.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_AIGrowth.json" Offset 20324.
+[2024.06.11-05.19.06:232][  0]LogPakFile: Display: Extracted "AI/D_AIRelationships.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_AIRelationships.json" Offset 30802.
+[2024.06.11-05.19.06:234][  0]LogPakFile: Display: Extracted "AI/D_AISetup.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_AISetup.json" Offset 31531.
+[2024.06.11-05.19.06:234][  0]LogPakFile: Display: Extracted "AI/D_AISpawnConfig.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_AISpawnConfig.json" Offset 61101.
+[2024.06.11-05.19.06:235][  0]LogPakFile: Display: Extracted "AI/D_AISpawnRules.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_AISpawnRules.json" Offset 64801.
+[2024.06.11-05.19.06:236][  0]LogPakFile: Display: Extracted "AI/D_AISpawnZones.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_AISpawnZones.json" Offset 65403.
+[2024.06.11-05.19.06:236][  0]LogPakFile: Display: Extracted "AI/D_AutonomousSpawns.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_AutonomousSpawns.json" Offset 76606.
+[2024.06.11-05.19.06:237][  0]LogPakFile: Display: Extracted "AI/D_EpicCreatures.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_EpicCreatures.json" Offset 77187.
+[2024.06.11-05.19.06:237][  0]LogPakFile: Display: Extracted "AI/D_GOAPActions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_GOAPActions.json" Offset 78892.
+[2024.06.11-05.19.06:239][  0]LogPakFile: Display: Extracted "AI/D_GOAPGoals.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_GOAPGoals.json" Offset 81527.
+[2024.06.11-05.19.06:239][  0]LogPakFile: Display: Extracted "AI/D_GOAPMotivations.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_GOAPMotivations.json" Offset 82716.
+[2024.06.11-05.19.06:240][  0]LogPakFile: Display: Extracted "AI/D_GOAPProperties.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_GOAPProperties.json" Offset 84037.
+[2024.06.11-05.19.06:241][  0]LogPakFile: Display: Extracted "AI/D_GOAPSetup.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_GOAPSetup.json" Offset 84625.
+[2024.06.11-05.19.06:242][  0]LogPakFile: Display: Extracted "AI/D_HuntingClueSetup.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_HuntingClueSetup.json" Offset 89420.
+[2024.06.11-05.19.06:243][  0]LogPakFile: Display: Extracted "AI/D_HuntingSetup.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_HuntingSetup.json" Offset 89964.
+[2024.06.11-05.19.06:244][  0]LogPakFile: Display: Extracted "AI/D_Mounts.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_Mounts.json" Offset 90270.
+[2024.06.11-05.19.06:247][  0]LogPakFile: Display: Extracted "AI/D_Saddles.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_Saddles.json" Offset 94591.
+[2024.06.11-05.19.06:248][  0]LogPakFile: Display: Extracted "AI/D_TamedCreatureModifiers.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_TamedCreatureModifiers.json" Offset 96896.
+[2024.06.11-05.19.06:248][  0]LogPakFile: Display: Extracted "AI/D_Tames.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_Tames.json" Offset 97495.
+[2024.06.11-05.19.06:248][  0]LogPakFile: Display: Extracted "AI/D_WorldBosses.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/AI/D_WorldBosses.json" Offset 98556.
+[2024.06.11-05.19.06:250][  0]LogPakFile: Display: Extracted "Alterations/D_AlterationModifiers.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Alterations/D_AlterationModifiers.json" Offset 99272.
+[2024.06.11-05.19.06:251][  0]LogPakFile: Display: Extracted "Alterations/D_Alterations.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Alterations/D_Alterations.json" Offset 99827.
+[2024.06.11-05.19.06:251][  0]LogPakFile: Display: Extracted "Animation/D_ItemAnimations.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Animation/D_ItemAnimations.json" Offset 105616.
+[2024.06.11-05.19.06:252][  0]LogPakFile: Display: Extracted "Animation/D_ItemAttachment.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Animation/D_ItemAttachment.json" Offset 107687.
+[2024.06.11-05.19.06:253][  0]LogPakFile: Display: Extracted "Armour/D_ArmourSetBonus.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Armour/D_ArmourSetBonus.json" Offset 108326.
+[2024.06.11-05.19.06:254][  0]LogPakFile: Display: Extracted "Armour/D_ArmourSets.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Armour/D_ArmourSets.json" Offset 109564.
+[2024.06.11-05.19.06:254][  0]LogPakFile: Display: Extracted "Assets/D_AssetReferences.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Assets/D_AssetReferences.json" Offset 110154.
+[2024.06.11-05.19.06:256][  0]LogPakFile: Display: Extracted "Attachments/D_AttachmentIcons.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Attachments/D_AttachmentIcons.json" Offset 110780.
+[2024.06.11-05.19.06:256][  0]LogPakFile: Display: Extracted "Attachments/D_IcarusAttachments.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Attachments/D_IcarusAttachments.json" Offset 111377.
+[2024.06.11-05.19.06:257][  0]LogPakFile: Display: Extracted "Attachments/D_ItemAttachments.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Attachments/D_ItemAttachments.json" Offset 112715.
+[2024.06.11-05.19.06:258][  0]LogPakFile: Display: Extracted "Audio/D_AIAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_AIAudioData.json" Offset 112987.
+[2024.06.11-05.19.06:261][  0]LogPakFile: Display: Extracted "Audio/D_BiomeAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_BiomeAudioData.json" Offset 122653.
+[2024.06.11-05.19.06:262][  0]LogPakFile: Display: Extracted "Audio/D_BuildableAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_BuildableAudioData.json" Offset 123239.
+[2024.06.11-05.19.06:263][  0]LogPakFile: Display: Extracted "Audio/D_CharacterVoices.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_CharacterVoices.json" Offset 124287.
+[2024.06.11-05.19.06:264][  0]LogPakFile: Display: Extracted "Audio/D_CraftingAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_CraftingAudioData.json" Offset 125134.
+[2024.06.11-05.19.06:264][  0]LogPakFile: Display: Extracted "Audio/D_CreatureAudioThreatData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_CreatureAudioThreatData.json" Offset 126096.
+[2024.06.11-05.19.06:265][  0]LogPakFile: Display: Extracted "Audio/D_CriticalHitAreaAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_CriticalHitAreaAudioData.json" Offset 126503.
+[2024.06.11-05.19.06:266][  0]LogPakFile: Display: Extracted "Audio/D_FirearmAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_FirearmAudioData.json" Offset 127150.
+[2024.06.11-05.19.06:267][  0]LogPakFile: Display: Extracted "Audio/D_ItemAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_ItemAudioData.json" Offset 128678.
+[2024.06.11-05.19.06:268][  0]LogPakFile: Display: Extracted "Audio/D_ModifierStateAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_ModifierStateAudioData.json" Offset 133987.
+[2024.06.11-05.19.06:269][  0]LogPakFile: Display: Extracted "Audio/D_MusicTracks.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_MusicTracks.json" Offset 134636.
+[2024.06.11-05.19.06:269][  0]LogPakFile: Display: Extracted "Audio/D_MusicTrackStateGroups.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_MusicTrackStateGroups.json" Offset 136137.
+[2024.06.11-05.19.06:270][  0]LogPakFile: Display: Extracted "Audio/D_PlayerFootstepAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_PlayerFootstepAudioData.json" Offset 136359.
+[2024.06.11-05.19.06:271][  0]LogPakFile: Display: Extracted "Audio/D_ResourceNodeAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_ResourceNodeAudioData.json" Offset 137180.
+[2024.06.11-05.19.06:272][  0]LogPakFile: Display: Extracted "Audio/D_RiverAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_RiverAudioData.json" Offset 137992.
+[2024.06.11-05.19.06:273][  0]LogPakFile: Display: Extracted "Audio/D_TerrainZoneAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_TerrainZoneAudioData.json" Offset 138780.
+[2024.06.11-05.19.06:274][  0]LogPakFile: Display: Extracted "Audio/D_TreeAudioData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_TreeAudioData.json" Offset 139822.
+[2024.06.11-05.19.06:275][  0]LogPakFile: Display: Extracted "Audio/D_Vocalisations.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_Vocalisations.json" Offset 140635.
+[2024.06.11-05.19.06:278][  0]LogPakFile: Display: Extracted "Audio/D_VocalisationSettings.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/D_VocalisationSettings.json" Offset 147955.
+[2024.06.11-05.19.06:279][  0]LogPakFile: Display: Extracted "Audio/MusicConditions/D_MusicLocationConditions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/MusicConditions/D_MusicLocationConditions.json" Offset 148857.
+[2024.06.11-05.19.06:280][  0]LogPakFile: Display: Extracted "Audio/MusicConditions/D_MusicQuestConditions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Audio/MusicConditions/D_MusicQuestConditions.json" Offset 149447.
+[2024.06.11-05.19.06:281][  0]LogPakFile: Display: Extracted "Bestiary/D_BestiaryData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Bestiary/D_BestiaryData.json" Offset 149722.
+[2024.06.11-05.19.06:281][  0]LogPakFile: Display: Extracted "Bestiary/D_BestiaryPoints.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Bestiary/D_BestiaryPoints.json" Offset 177650.
+[2024.06.11-05.19.06:282][  0]LogPakFile: Display: Extracted "Bestiary/D_BestiaryTraits.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Bestiary/D_BestiaryTraits.json" Offset 178847.
+[2024.06.11-05.19.06:283][  0]LogPakFile: Display: Extracted "Bestiary/D_BestiaryTraitTypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Bestiary/D_BestiaryTraitTypes.json" Offset 180705.
+[2024.06.11-05.19.06:284][  0]LogPakFile: Display: Extracted "Blueprints/D_BlueprintUnlocks.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Blueprints/D_BlueprintUnlocks.json" Offset 181270.
+[2024.06.11-05.19.06:285][  0]LogPakFile: Display: Extracted "Building/D_BuildingLookup.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Building/D_BuildingLookup.json" Offset 181651.
+[2024.06.11-05.19.06:286][  0]LogPakFile: Display: Extracted "Building/D_BuildingPieces.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Building/D_BuildingPieces.json" Offset 186063.
+[2024.06.11-05.19.06:287][  0]LogPakFile: Display: Extracted "Building/D_BuildingSkins.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Building/D_BuildingSkins.json" Offset 202272.
+[2024.06.11-05.19.06:287][  0]LogPakFile: Display: Extracted "Building/D_BuildingStability.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Building/D_BuildingStability.json" Offset 207741.
+[2024.06.11-05.19.06:288][  0]LogPakFile: Display: Extracted "Challenges/D_Challenges.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Challenges/D_Challenges.json" Offset 208524.
+[2024.06.11-05.19.06:289][  0]LogPakFile: Display: Extracted "Character/D_CharacterCreationData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Character/D_CharacterCreationData.json" Offset 208877.
+[2024.06.11-05.19.06:290][  0]LogPakFile: Display: Extracted "Character/D_CharacterGrowth.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Character/D_CharacterGrowth.json" Offset 212348.
+[2024.06.11-05.19.06:292][  0]LogPakFile: Display: Extracted "Config/D_GameplayConfig.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Config/D_GameplayConfig.json" Offset 212799.
+[2024.06.11-05.19.06:293][  0]LogPakFile: Display: Extracted "Crafting/D_CraftingModifications.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Crafting/D_CraftingModifications.json" Offset 213861.
+[2024.06.11-05.19.06:294][  0]LogPakFile: Display: Extracted "Crafting/D_ExtractorRecipes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Crafting/D_ExtractorRecipes.json" Offset 214790.
+[2024.06.11-05.19.06:298][  0]LogPakFile: Display: Extracted "Crafting/D_ProcessorRecipes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Crafting/D_ProcessorRecipes.json" Offset 215220.
+[2024.06.11-05.19.06:299][  0]LogPakFile: Display: Extracted "Crafting/D_RecipeSets.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Crafting/D_RecipeSets.json" Offset 298278.
+[2024.06.11-05.19.06:299][  0]LogPakFile: Display: Extracted "CriticalHit/D_CriticalHitSetup.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/CriticalHit/D_CriticalHitSetup.json" Offset 300505.
+[2024.06.11-05.19.06:300][  0]LogPakFile: Display: Extracted "Currency/D_CurrencyConversions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Currency/D_CurrencyConversions.json" Offset 301168.
+[2024.06.11-05.19.06:301][  0]LogPakFile: Display: Extracted "Currency/D_MetaCurrency.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Currency/D_MetaCurrency.json" Offset 301541.
+[2024.06.11-05.19.06:302][  0]LogPakFile: Display: Extracted "Damage/D_CriticalHitAreas.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Damage/D_CriticalHitAreas.json" Offset 302285.
+[2024.06.11-05.19.06:302][  0]LogPakFile: Display: Extracted "Damage/D_DamageTypeInfo.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Damage/D_DamageTypeInfo.json" Offset 302794.
+[2024.06.11-05.19.06:304][  0]LogPakFile: Display: Extracted "Deployables/D_DeployableSetup.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Deployables/D_DeployableSetup.json" Offset 304301.
+[2024.06.11-05.19.06:304][  0]LogPakFile: Display: Extracted "Deployables/D_Turret.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Deployables/D_Turret.json" Offset 334735.
+[2024.06.11-05.19.06:305][  0]LogPakFile: Display: Extracted "Development/D_FeatureLevels.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Development/D_FeatureLevels.json" Offset 335471.
+[2024.06.11-05.19.06:306][  0]LogPakFile: Display: Extracted "Development/D_LevelSequences.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Development/D_LevelSequences.json" Offset 336585.
+[2024.06.11-05.19.06:308][  0]LogPakFile: Display: Extracted "Dialogue/D_Dialogue.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Dialogue/D_Dialogue.json" Offset 336854.
+[2024.06.11-05.19.06:309][  0]LogPakFile: Display: Extracted "Dialogue/D_DialoguePool.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Dialogue/D_DialoguePool.json" Offset 435776.
+[2024.06.11-05.19.06:309][  0]LogPakFile: Display: Extracted "Dialogue/D_DialogueSpeaker.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Dialogue/D_DialogueSpeaker.json" Offset 438468.
+[2024.06.11-05.19.06:310][  0]LogPakFile: Display: Extracted "DLC/D_DLCPackageData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/DLC/D_DLCPackageData.json" Offset 439501.
+[2024.06.11-05.19.06:312][  0]LogPakFile: Display: Extracted "DropShip/D_DropShipActions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/DropShip/D_DropShipActions.json" Offset 440697.
+[2024.06.11-05.19.06:312][  0]LogPakFile: Display: Extracted "DropShip/D_DropShipSequences.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/DropShip/D_DropShipSequences.json" Offset 441044.
+[2024.06.11-05.19.06:313][  0]LogPakFile: Display: Extracted "Errors/D_ErrorCodes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Errors/D_ErrorCodes.json" Offset 441943.
+[2024.06.11-05.19.06:314][  0]LogPakFile: Display: Extracted "Events/D_ScriptedEvents.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Events/D_ScriptedEvents.json" Offset 445375.
+[2024.06.11-05.19.06:315][  0]LogPakFile: Display: Extracted "Experience/D_ExperienceEvents.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Experience/D_ExperienceEvents.json" Offset 446150.
+[2024.06.11-05.19.06:317][  0]LogPakFile: Display: Extracted "Factions/D_FactionInfo.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Factions/D_FactionInfo.json" Offset 449785.
+[2024.06.11-05.19.06:318][  0]LogPakFile: Display: Extracted "Factions/D_FactionMissions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Factions/D_FactionMissions.json" Offset 450308.
+[2024.06.11-05.19.06:319][  0]LogPakFile: Display: Extracted "Factions/D_Factions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Factions/D_Factions.json" Offset 458349.
+[2024.06.11-05.19.06:320][  0]LogPakFile: Display: Extracted "Farming/D_Farmable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Farming/D_Farmable.json" Offset 458515.
+[2024.06.11-05.19.06:320][  0]LogPakFile: Display: Extracted "Farming/D_FarmingGrowthStates.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Farming/D_FarmingGrowthStates.json" Offset 459086.
+[2024.06.11-05.19.06:321][  0]LogPakFile: Display: Extracted "Farming/D_FarmingSeeds.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Farming/D_FarmingSeeds.json" Offset 461784.
+[2024.06.11-05.19.06:321][  0]LogPakFile: Display: Extracted "Farming/D_SeedModifications.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Farming/D_SeedModifications.json" Offset 464134.
+[2024.06.11-05.19.06:323][  0]LogPakFile: Display: Extracted "FieldGuide/D_FieldGuideCategories.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/FieldGuide/D_FieldGuideCategories.json" Offset 464653.
+[2024.06.11-05.19.06:324][  0]LogPakFile: Display: Extracted "FieldGuide/D_FieldGuideMetaData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/FieldGuide/D_FieldGuideMetaData.json" Offset 466371.
+[2024.06.11-05.19.06:325][  0]LogPakFile: Display: Extracted "FieldGuide/D_FieldGuideSets.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/FieldGuide/D_FieldGuideSets.json" Offset 467941.
+[2024.06.11-05.19.06:326][  0]LogPakFile: Display: Extracted "Fish/D_FishData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Fish/D_FishData.json" Offset 470147.
+[2024.06.11-05.19.06:327][  0]LogPakFile: Display: Extracted "Fish/D_FishSpawnConfig.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Fish/D_FishSpawnConfig.json" Offset 475081.
+[2024.06.11-05.19.06:327][  0]LogPakFile: Display: Extracted "Fish/D_FishSpawnZones.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Fish/D_FishSpawnZones.json" Offset 476573.
+[2024.06.11-05.19.06:328][  0]LogPakFile: Display: Extracted "Flags/D_AccountFlags.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Flags/D_AccountFlags.json" Offset 478012.
+[2024.06.11-05.19.06:329][  0]LogPakFile: Display: Extracted "Flags/D_CharacterFlags.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Flags/D_CharacterFlags.json" Offset 478344.
+[2024.06.11-05.19.06:330][  0]LogPakFile: Display: Extracted "Flags/D_SessionFlags.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Flags/D_SessionFlags.json" Offset 479250.
+[2024.06.11-05.19.06:331][  0]LogPakFile: Display: Extracted "FLOD/D_FLODDescriptions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/FLOD/D_FLODDescriptions.json" Offset 480088.
+[2024.06.11-05.19.06:333][  0]LogPakFile: Display: Extracted "Hints/D_Hints.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Hints/D_Hints.json" Offset 493936.
+[2024.06.11-05.19.06:334][  0]LogPakFile: Display: Extracted "Horde/D_Horde.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Horde/D_Horde.json" Offset 494930.
+[2024.06.11-05.19.06:334][  0]LogPakFile: Display: Extracted "Horde/D_HordeWave.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Horde/D_HordeWave.json" Offset 495535.
+[2024.06.11-05.19.06:335][  0]LogPakFile: Display: Extracted "Input/D_KeybindContexts.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Input/D_KeybindContexts.json" Offset 496915.
+[2024.06.11-05.19.06:336][  0]LogPakFile: Display: Extracted "Input/D_Keybindings.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Input/D_Keybindings.json" Offset 497309.
+[2024.06.11-05.19.06:337][  0]LogPakFile: Display: Extracted "Input/D_KeyIcons.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Input/D_KeyIcons.json" Offset 500272.
+[2024.06.11-05.19.06:339][  0]LogPakFile: Display: Extracted "Input/D_Keys.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Input/D_Keys.json" Offset 501939.
+[2024.06.11-05.19.06:341][  0]LogPakFile: Display: Extracted "Interactions/D_Interactions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Interactions/D_Interactions.json" Offset 502727.
+[2024.06.11-05.19.06:341][  0]LogPakFile: Display: Extracted "Interactions/D_RadialMenuData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Interactions/D_RadialMenuData.json" Offset 506199.
+[2024.06.11-05.19.06:342][  0]LogPakFile: Display: Extracted "Interactions/D_RadialOptions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Interactions/D_RadialOptions.json" Offset 506935.
+[2024.06.11-05.19.06:342][  0]LogPakFile: Display: Extracted "Inventory/D_BagPriority.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Inventory/D_BagPriority.json" Offset 507666.
+[2024.06.11-05.19.06:343][  0]LogPakFile: Display: Extracted "Inventory/D_InventoryContainer.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Inventory/D_InventoryContainer.json" Offset 508278.
+[2024.06.11-05.19.06:343][  0]LogPakFile: Display: Extracted "Inventory/D_InventoryID.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Inventory/D_InventoryID.json" Offset 508829.
+[2024.06.11-05.19.06:344][  0]LogPakFile: Display: Extracted "Inventory/D_InventoryInfo.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Inventory/D_InventoryInfo.json" Offset 509249.
+[2024.06.11-05.19.06:345][  0]LogPakFile: Display: Extracted "Inventory/D_ItemWeightStatQueries.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Inventory/D_ItemWeightStatQueries.json" Offset 512591.
+[2024.06.11-05.19.06:345][  0]LogPakFile: Display: Extracted "Inventory/D_QuickMove.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Inventory/D_QuickMove.json" Offset 513129.
+[2024.06.11-05.19.06:346][  0]LogPakFile: Display: Extracted "Items/D_ItemClassificationsIcons.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/D_ItemClassificationsIcons.json" Offset 513822.
+[2024.06.11-05.19.06:347][  0]LogPakFile: Display: Extracted "Items/D_ItemRanks.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/D_ItemRanks.json" Offset 515161.
+[2024.06.11-05.19.06:348][  0]LogPakFile: Display: Extracted "Items/D_ItemRewards.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/D_ItemRewards.json" Offset 515566.
+[2024.06.11-05.19.06:355][  0]LogPakFile: Display: Extracted "Items/D_ItemsStatic.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/D_ItemsStatic.json" Offset 534815.
+[2024.06.11-05.19.06:357][  0]LogPakFile: Display: Extracted "Items/D_ItemTemplate.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/D_ItemTemplate.json" Offset 689768.
+[2024.06.11-05.19.06:357][  0]LogPakFile: Display: Extracted "Items/D_ItemTraitMasks.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/D_ItemTraitMasks.json" Offset 713185.
+[2024.06.11-05.19.06:358][  0]LogPakFile: Display: Extracted "Items/Types/D_BuildingTypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/Types/D_BuildingTypes.json" Offset 713926.
+[2024.06.11-05.19.06:359][  0]LogPakFile: Display: Extracted "Items/Types/D_DeployableTypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/Types/D_DeployableTypes.json" Offset 714507.
+[2024.06.11-05.19.06:359][  0]LogPakFile: Display: Extracted "Items/Types/D_FoodTypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/Types/D_FoodTypes.json" Offset 715060.
+[2024.06.11-05.19.06:360][  0]LogPakFile: Display: Extracted "Items/Types/D_ProjectileTypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/Types/D_ProjectileTypes.json" Offset 715764.
+[2024.06.11-05.19.06:361][  0]LogPakFile: Display: Extracted "Items/Types/D_ToolTypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Items/Types/D_ToolTypes.json" Offset 716953.
+[2024.06.11-05.19.06:362][  0]LogPakFile: Display: Extracted "LivingItems/D_LivingItemShopItems.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/LivingItems/D_LivingItemShopItems.json" Offset 717358.
+[2024.06.11-05.19.06:362][  0]LogPakFile: Display: Extracted "LivingItems/D_LivingItemUpgrades.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/LivingItems/D_LivingItemUpgrades.json" Offset 717655.
+[2024.06.11-05.19.06:363][  0]LogPakFile: Display: Extracted "Localization/D_Languages.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Localization/D_Languages.json" Offset 718085.
+[2024.06.11-05.19.06:364][  0]LogPakFile: Display: Extracted "Logging/D_LogCategories.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Logging/D_LogCategories.json" Offset 718390.
+[2024.06.11-05.19.06:365][  0]LogPakFile: Display: Extracted "MetaResource/D_MetaResourceNodes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/MetaResource/D_MetaResourceNodes.json" Offset 719177.
+[2024.06.11-05.19.06:366][  0]LogPakFile: Display: Extracted "MetaWorkshop/D_WorkshopItems.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/MetaWorkshop/D_WorkshopItems.json" Offset 719573.
+[2024.06.11-05.19.06:367][  0]LogPakFile: Display: Extracted "Modifiers/D_AfflictionChance.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Modifiers/D_AfflictionChance.json" Offset 725897.
+[2024.06.11-05.19.06:367][  0]LogPakFile: Display: Extracted "Modifiers/D_GrantedAuras.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Modifiers/D_GrantedAuras.json" Offset 726950.
+[2024.06.11-05.19.06:370][  0]LogPakFile: Display: Extracted "Modifiers/D_ModifierStates.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Modifiers/D_ModifierStates.json" Offset 727446.
+[2024.06.11-05.19.06:371][  0]LogPakFile: Display: Extracted "Modifiers/D_StatAfflictions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Modifiers/D_StatAfflictions.json" Offset 770932.
+[2024.06.11-05.19.06:373][  0]LogPakFile: Display: Extracted "Modifiers/D_SurvivalTriggers.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Modifiers/D_SurvivalTriggers.json" Offset 771882.
+[2024.06.11-05.19.06:373][  0]LogPakFile: Display: Extracted "Online/D_RCONCommand.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Online/D_RCONCommand.json" Offset 772598.
+[2024.06.11-05.19.06:375][  0]LogPakFile: Display: Extracted "Online/D_RepGraphClassPolicies.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Online/D_RepGraphClassPolicies.json" Offset 773262.
+[2024.06.11-05.19.06:376][  0]LogPakFile: Display: Extracted "Online/D_RepGraphClassSettings.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Online/D_RepGraphClassSettings.json" Offset 775719.
+[2024.06.11-05.19.06:377][  0]LogPakFile: Display: Extracted "Orchestration/D_OrchestrationEvents.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Orchestration/D_OrchestrationEvents.json" Offset 776371.
+[2024.06.11-05.19.06:378][  0]LogPakFile: Display: Extracted "Orchestration/D_OrchestrationStateFlags.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Orchestration/D_OrchestrationStateFlags.json" Offset 776983.
+[2024.06.11-05.19.06:379][  0]LogPakFile: Display: Extracted "Outpost/D_Outposts.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Outpost/D_Outposts.json" Offset 777720.
+[2024.06.11-05.19.06:380][  0]LogPakFile: Display: Extracted "Paintings/D_Paintings.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Paintings/D_Paintings.json" Offset 778258.
+[2024.06.11-05.19.06:381][  0]LogPakFile: Display: Extracted "Perks/D_CharacterPerks.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Perks/D_CharacterPerks.json" Offset 779765.
+[2024.06.11-05.19.06:382][  0]LogPakFile: Display: Extracted "PlayerTracker/D_PlayerAccoladeCategories.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/PlayerTracker/D_PlayerAccoladeCategories.json" Offset 780102.
+[2024.06.11-05.19.06:383][  0]LogPakFile: Display: Extracted "PlayerTracker/D_PlayerTrackerCategories.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/PlayerTracker/D_PlayerTrackerCategories.json" Offset 780679.
+[2024.06.11-05.19.06:386][  0]LogPakFile: Display: Extracted "PlayerTracker/D_PlayerTrackers.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/PlayerTracker/D_PlayerTrackers.json" Offset 781553.
+[2024.06.11-05.19.06:388][  0]LogPakFile: Display: Extracted "Prebuilt/D_PrebuiltStructures.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Prebuilt/D_PrebuiltStructures.json" Offset 784828.
+[2024.06.11-05.19.06:389][  0]LogPakFile: Display: Extracted "Prospects/D_Atmospheres.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Prospects/D_Atmospheres.json" Offset 785201.
+[2024.06.11-05.19.06:390][  0]LogPakFile: Display: Extracted "Prospects/D_Biomes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Prospects/D_Biomes.json" Offset 786484.
+[2024.06.11-05.19.06:391][  0]LogPakFile: Display: Extracted "Prospects/D_ProspectList.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Prospects/D_ProspectList.json" Offset 788496.
+[2024.06.11-05.19.06:392][  0]LogPakFile: Display: Extracted "Prospects/D_Terrains.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Prospects/D_Terrains.json" Offset 833871.
+[2024.06.11-05.19.06:393][  0]LogPakFile: Display: Extracted "Quests/D_DynamicQuestRewardItems.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Quests/D_DynamicQuestRewardItems.json" Offset 834788.
+[2024.06.11-05.19.06:394][  0]LogPakFile: Display: Extracted "Quests/D_DynamicQuestRewards.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Quests/D_DynamicQuestRewards.json" Offset 841027.
+[2024.06.11-05.19.06:395][  0]LogPakFile: Display: Extracted "Quests/D_DynamicQuests.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Quests/D_DynamicQuests.json" Offset 846929.
+[2024.06.11-05.19.06:396][  0]LogPakFile: Display: Extracted "Quests/D_QuestEvents.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Quests/D_QuestEvents.json" Offset 848172.
+[2024.06.11-05.19.06:397][  0]LogPakFile: Display: Extracted "Quests/D_QuestQueries.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Quests/D_QuestQueries.json" Offset 849031.
+[2024.06.11-05.19.06:401][  0]LogPakFile: Display: Extracted "Quests/D_Quests.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Quests/D_Quests.json" Offset 857210.
+[2024.06.11-05.19.06:402][  0]LogPakFile: Display: Extracted "Quests/Modifiers/D_QuestEnemyModifiers.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Quests/Modifiers/D_QuestEnemyModifiers.json" Offset 905885.
+[2024.06.11-05.19.06:403][  0]LogPakFile: Display: Extracted "Quests/Modifiers/D_QuestVocalisationModifiers.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Quests/Modifiers/D_QuestVocalisationModifiers.json" Offset 906331.
+[2024.06.11-05.19.06:404][  0]LogPakFile: Display: Extracted "Quests/Modifiers/D_QuestWeatherModifiers.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Quests/Modifiers/D_QuestWeatherModifiers.json" Offset 906759.
+[2024.06.11-05.19.06:405][  0]LogPakFile: Display: Extracted "Resources/D_OptionalResourceFlows.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Resources/D_OptionalResourceFlows.json" Offset 907025.
+[2024.06.11-05.19.06:406][  0]LogPakFile: Display: Extracted "RTXGI/D_RTXGIVolumes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/RTXGI/D_RTXGIVolumes.json" Offset 907538.
+[2024.06.11-05.19.06:407][  0]LogPakFile: Display: Extracted "Rulesets/D_Rulesets.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Rulesets/D_Rulesets.json" Offset 908324.
+[2024.06.11-05.19.06:408][  0]LogPakFile: Display: Extracted "Scaling/D_ScalingRules.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Scaling/D_ScalingRules.json" Offset 908887.
+[2024.06.11-05.19.06:409][  0]LogPakFile: Display: Extracted "Settings/D_GraphicsTierDescription.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Settings/D_GraphicsTierDescription.json" Offset 909381.
+[2024.06.11-05.19.06:410][  0]LogPakFile: Display: Extracted "Settings/D_GraphicsTierDescriptionMods.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Settings/D_GraphicsTierDescriptionMods.json" Offset 910158.
+[2024.06.11-05.19.06:410][  0]LogPakFile: Display: Extracted "Sorting/D_SortTypePriority.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Sorting/D_SortTypePriority.json" Offset 910565.
+[2024.06.11-05.19.06:411][  0]LogPakFile: Display: Extracted "Spawn/D_ExoticSpawn.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Spawn/D_ExoticSpawn.json" Offset 911337.
+[2024.06.11-05.19.06:412][  0]LogPakFile: Display: Extracted "Statistics/D_Statistics.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Statistics/D_Statistics.json" Offset 912233.
+[2024.06.11-05.19.06:413][  0]LogPakFile: Display: Extracted "Stats/D_CharacterStartingStats.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Stats/D_CharacterStartingStats.json" Offset 912757.
+[2024.06.11-05.19.06:414][  0]LogPakFile: Display: Extracted "Stats/D_ProspectStats.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Stats/D_ProspectStats.json" Offset 913803.
+[2024.06.11-05.19.06:417][  0]LogPakFile: Display: Extracted "Stats/D_StatCategories.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Stats/D_StatCategories.json" Offset 914807.
+[2024.06.11-05.19.06:419][  0]LogPakFile: Display: Extracted "Stats/D_Stats.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Stats/D_Stats.json" Offset 915762.
+[2024.06.11-05.19.06:419][  0]LogPakFile: Display: Extracted "Tags/D_StatGameplayTags.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Tags/D_StatGameplayTags.json" Offset 964551.
+[2024.06.11-05.19.06:420][  0]LogPakFile: Display: Extracted "Tags/D_TagQueries.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Tags/D_TagQueries.json" Offset 965111.
+[2024.06.11-05.19.06:422][  0]LogPakFile: Display: Extracted "Talents/D_TalentArchetypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Talents/D_TalentArchetypes.json" Offset 974074.
+[2024.06.11-05.19.06:422][  0]LogPakFile: Display: Extracted "Talents/D_TalentModels.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Talents/D_TalentModels.json" Offset 975762.
+[2024.06.11-05.19.06:423][  0]LogPakFile: Display: Extracted "Talents/D_TalentModelViews.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Talents/D_TalentModelViews.json" Offset 976800.
+[2024.06.11-05.19.06:424][  0]LogPakFile: Display: Extracted "Talents/D_TalentRanks.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Talents/D_TalentRanks.json" Offset 977177.
+[2024.06.11-05.19.06:428][  0]LogPakFile: Display: Extracted "Talents/D_Talents.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Talents/D_Talents.json" Offset 977595.
+[2024.06.11-05.19.06:428][  0]LogPakFile: Display: Extracted "Talents/D_TalentTrees.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Talents/D_TalentTrees.json" Offset 1079498.
+[2024.06.11-05.19.06:429][  0]LogPakFile: Display: Extracted "Talents/D_TalentViews.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Talents/D_TalentViews.json" Offset 1081505.
+[2024.06.11-05.19.06:432][  0]LogPakFile: Display: Extracted "TimeOfDay/D_TimeOfDay.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/TimeOfDay/D_TimeOfDay.json" Offset 1092621.
+[2024.06.11-05.19.06:434][  0]LogPakFile: Display: Extracted "Tools/D_Actions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Tools/D_Actions.json" Offset 1093402.
+[2024.06.11-05.19.06:435][  0]LogPakFile: Display: Extracted "Tools/D_AmmoTypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Tools/D_AmmoTypes.json" Offset 1096282.
+[2024.06.11-05.19.06:436][  0]LogPakFile: Display: Extracted "Tools/D_FirearmData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Tools/D_FirearmData.json" Offset 1096987.
+[2024.06.11-05.19.06:437][  0]LogPakFile: Display: Extracted "Tools/D_RangedWeaponData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Tools/D_RangedWeaponData.json" Offset 1102707.
+[2024.06.11-05.19.06:438][  0]LogPakFile: Display: Extracted "Tools/D_StaminaActionCosts.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Tools/D_StaminaActionCosts.json" Offset 1103394.
+[2024.06.11-05.19.06:438][  0]LogPakFile: Display: Extracted "Tools/D_ToolDamage.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Tools/D_ToolDamage.json" Offset 1104082.
+[2024.06.11-05.19.06:439][  0]LogPakFile: Display: Extracted "Tools/D_Uses.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Tools/D_Uses.json" Offset 1105375.
+[2024.06.11-05.19.06:440][  0]LogPakFile: Display: Extracted "Tools/D_ValidAmmoTypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Tools/D_ValidAmmoTypes.json" Offset 1105901.
+[2024.06.11-05.19.06:441][  0]LogPakFile: Display: Extracted "Traits/D_Actionable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Actionable.json" Offset 1106805.
+[2024.06.11-05.19.06:442][  0]LogPakFile: Display: Extracted "Traits/D_Armour.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Armour.json" Offset 1109632.
+[2024.06.11-05.19.06:443][  0]LogPakFile: Display: Extracted "Traits/D_Ballistic.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Ballistic.json" Offset 1117915.
+[2024.06.11-05.19.06:444][  0]LogPakFile: Display: Extracted "Traits/D_Buildable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Buildable.json" Offset 1126640.
+[2024.06.11-05.19.06:445][  0]LogPakFile: Display: Extracted "Traits/D_Combustible.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Combustible.json" Offset 1133791.
+[2024.06.11-05.19.06:447][  0]LogPakFile: Display: Extracted "Traits/D_Consumable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Consumable.json" Offset 1134969.
+[2024.06.11-05.19.06:448][  0]LogPakFile: Display: Extracted "Traits/D_Decayable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Decayable.json" Offset 1139977.
+[2024.06.11-05.19.06:449][  0]LogPakFile: Display: Extracted "Traits/D_Deployable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Deployable.json" Offset 1140632.
+[2024.06.11-05.19.06:450][  0]LogPakFile: Display: Extracted "Traits/D_Durable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Durable.json" Offset 1149584.
+[2024.06.11-05.19.06:451][  0]LogPakFile: Display: Extracted "Traits/D_Energy.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Energy.json" Offset 1151972.
+[2024.06.11-05.19.06:452][  0]LogPakFile: Display: Extracted "Traits/D_Equippable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Equippable.json" Offset 1153301.
+[2024.06.11-05.19.06:452][  0]LogPakFile: Display: Extracted "Traits/D_Experience.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Experience.json" Offset 1155407.
+[2024.06.11-05.19.06:453][  0]LogPakFile: Display: Extracted "Traits/D_Fillable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Fillable.json" Offset 1156995.
+[2024.06.11-05.19.06:454][  0]LogPakFile: Display: Extracted "Traits/D_Flammable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Flammable.json" Offset 1157770.
+[2024.06.11-05.19.06:455][  0]LogPakFile: Display: Extracted "Traits/D_Floatable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Floatable.json" Offset 1158837.
+[2024.06.11-05.19.06:457][  0]LogPakFile: Display: Extracted "Traits/D_Focusable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Focusable.json" Offset 1159285.
+[2024.06.11-05.19.06:458][  0]LogPakFile: Display: Extracted "Traits/D_Fuel.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Fuel.json" Offset 1162503.
+[2024.06.11-05.19.06:459][  0]LogPakFile: Display: Extracted "Traits/D_Generator.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Generator.json" Offset 1163547.
+[2024.06.11-05.19.06:459][  0]LogPakFile: Display: Extracted "Traits/D_Highlightable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Highlightable.json" Offset 1164731.
+[2024.06.11-05.19.06:460][  0]LogPakFile: Display: Extracted "Traits/D_Hitable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Hitable.json" Offset 1171093.
+[2024.06.11-05.19.06:463][  0]LogPakFile: Display: Extracted "Traits/D_Interactable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Interactable.json" Offset 1172432.
+[2024.06.11-05.19.06:465][  0]LogPakFile: Display: Extracted "Traits/D_Inventory.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Inventory.json" Offset 1175749.
+[2024.06.11-05.19.06:468][  0]LogPakFile: Display: Extracted "Traits/D_Itemable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Itemable.json" Offset 1178131.
+[2024.06.11-05.19.06:469][  0]LogPakFile: Display: Extracted "Traits/D_LivingItem.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_LivingItem.json" Offset 1338644.
+[2024.06.11-05.19.06:470][  0]LogPakFile: Display: Extracted "Traits/D_Meshable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Meshable.json" Offset 1339046.
+[2024.06.11-05.19.06:471][  0]LogPakFile: Display: Extracted "Traits/D_Oxygen.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Oxygen.json" Offset 1367375.
+[2024.06.11-05.19.06:471][  0]LogPakFile: Display: Extracted "Traits/D_Processing.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Processing.json" Offset 1368352.
+[2024.06.11-05.19.06:472][  0]LogPakFile: Display: Extracted "Traits/D_Resource.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Resource.json" Offset 1369773.
+[2024.06.11-05.19.06:472][  0]LogPakFile: Display: Extracted "Traits/D_Rocketable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Rocketable.json" Offset 1371129.
+[2024.06.11-05.19.06:473][  0]LogPakFile: Display: Extracted "Traits/D_Slotable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Slotable.json" Offset 1371551.
+[2024.06.11-05.19.06:474][  0]LogPakFile: Display: Extracted "Traits/D_Thermal.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Thermal.json" Offset 1372199.
+[2024.06.11-05.19.06:475][  0]LogPakFile: Display: Extracted "Traits/D_Transmutable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Transmutable.json" Offset 1372981.
+[2024.06.11-05.19.06:475][  0]LogPakFile: Display: Extracted "Traits/D_Usable.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Usable.json" Offset 1373495.
+[2024.06.11-05.19.06:476][  0]LogPakFile: Display: Extracted "Traits/D_Vehicular.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Vehicular.json" Offset 1374199.
+[2024.06.11-05.19.06:479][  0]LogPakFile: Display: Extracted "Traits/D_Water.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Water.json" Offset 1376833.
+[2024.06.11-05.19.06:480][  0]LogPakFile: Display: Extracted "Traits/D_Weight.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Traits/D_Weight.json" Offset 1377695.
+[2024.06.11-05.19.06:481][  0]LogPakFile: Display: Extracted "UI/D_CharacterTimeline.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/UI/D_CharacterTimeline.json" Offset 1378110.
+[2024.06.11-05.19.06:481][  0]LogPakFile: Display: Extracted "UI/D_ContextMenuGroupTypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/UI/D_ContextMenuGroupTypes.json" Offset 1378556.
+[2024.06.11-05.19.06:482][  0]LogPakFile: Display: Extracted "UI/D_MapIcons.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/UI/D_MapIcons.json" Offset 1379012.
+[2024.06.11-05.19.06:483][  0]LogPakFile: Display: Extracted "UI/D_MapSearchArea.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/UI/D_MapSearchArea.json" Offset 1381000.
+[2024.06.11-05.19.06:483][  0]LogPakFile: Display: Extracted "UI/D_PlayerIdentity.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/UI/D_PlayerIdentity.json" Offset 1381601.
+[2024.06.11-05.19.06:484][  0]LogPakFile: Display: Extracted "UI/D_PreviewCameraSettings.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/UI/D_PreviewCameraSettings.json" Offset 1382060.
+[2024.06.11-05.19.06:485][  0]LogPakFile: Display: Extracted "UI/D_TimelineRanks.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/UI/D_TimelineRanks.json" Offset 1382770.
+[2024.06.11-05.19.06:486][  0]LogPakFile: Display: Extracted "ValidHits/D_ValidHitQueries.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/ValidHits/D_ValidHitQueries.json" Offset 1383893.
+[2024.06.11-05.19.06:486][  0]LogPakFile: Display: Extracted "ValidHits/D_ValidHitTypes.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/ValidHits/D_ValidHitTypes.json" Offset 1384471.
+[2024.06.11-05.19.06:487][  0]LogPakFile: Display: Extracted "ValidHits/D_ValidInteractQueries.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/ValidHits/D_ValidInteractQueries.json" Offset 1384745.
+[2024.06.11-05.19.06:488][  0]LogPakFile: Display: Extracted "Vehicles/D_VehicleSetups.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Vehicles/D_VehicleSetups.json" Offset 1385261.
+[2024.06.11-05.19.06:489][  0]LogPakFile: Display: Extracted "Weather/D_ProspectForecast.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Weather/D_ProspectForecast.json" Offset 1387432.
+[2024.06.11-05.19.06:491][  0]LogPakFile: Display: Extracted "Weather/D_WeatherActions.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Weather/D_WeatherActions.json" Offset 1388351.
+[2024.06.11-05.19.06:491][  0]LogPakFile: Display: Extracted "Weather/D_WeatherBiomeGroups.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Weather/D_WeatherBiomeGroups.json" Offset 1427242.
+[2024.06.11-05.19.06:492][  0]LogPakFile: Display: Extracted "Weather/D_WeatherEvents.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Weather/D_WeatherEvents.json" Offset 1427953.
+[2024.06.11-05.19.06:495][  0]LogPakFile: Display: Extracted "Weather/D_WeatherPools.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Weather/D_WeatherPools.json" Offset 1439538.
+[2024.06.11-05.19.06:496][  0]LogPakFile: Display: Extracted "Weather/D_WeatherTierIcon.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/Weather/D_WeatherTierIcon.json" Offset 1442448.
+[2024.06.11-05.19.06:498][  0]LogPakFile: Display: Extracted "World/D_BreakableRockData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/World/D_BreakableRockData.json" Offset 1443030.
+[2024.06.11-05.19.06:498][  0]LogPakFile: Display: Extracted "World/D_DropGroups.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/World/D_DropGroups.json" Offset 1443500.
+[2024.06.11-05.19.06:499][  0]LogPakFile: Display: Extracted "World/D_FishSetup.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/World/D_FishSetup.json" Offset 1444748.
+[2024.06.11-05.19.06:499][  0]LogPakFile: Display: Extracted "World/D_OreDeposit.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/World/D_OreDeposit.json" Offset 1445565.
+[2024.06.11-05.19.06:500][  0]LogPakFile: Display: Extracted "World/D_Surfaces.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/World/D_Surfaces.json" Offset 1447096.
+[2024.06.11-05.19.06:501][  0]LogPakFile: Display: Extracted "World/D_VoxelDistributionRegion.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/World/D_VoxelDistributionRegion.json" Offset 1448830.
+[2024.06.11-05.19.06:502][  0]LogPakFile: Display: Extracted "World/D_VoxelMaterialMap.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/World/D_VoxelMaterialMap.json" Offset 1450153.
+[2024.06.11-05.19.06:503][  0]LogPakFile: Display: Extracted "World/D_VoxelSetupData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/World/D_VoxelSetupData.json" Offset 1451024.
+[2024.06.11-05.19.06:505][  0]LogPakFile: Display: Extracted "World/D_WaterSetup.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/World/D_WaterSetup.json" Offset 1452240.
+[2024.06.11-05.19.06:507][  0]LogPakFile: Display: Extracted "World/D_WorldData.json" to "C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\tempMod\This_Weeks_Changes\data/World/D_WorldData.json" Offset 1453103.
+[2024.06.11-05.19.06:507][  0]LogPakFile: Finished extracting 265 (including 0 errors).
+[2024.06.11-05.19.06:507][  0]LogPakFile: Display: Unreal pak executed in 0.289572 seconds
+[2024.06.11-05.19.06:511][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2024.06.11-05.19.06:511][  0]LogExit: Preparing to exit.
+[2024.06.11-05.19.06:512][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.06.11-05.19.06:512][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.06.11-05.19.06:512][  0]LogExit: Exiting.
+[2024.06.11-05.19.06:525][  0]Log file closed, 06/10/24 22:19:06
