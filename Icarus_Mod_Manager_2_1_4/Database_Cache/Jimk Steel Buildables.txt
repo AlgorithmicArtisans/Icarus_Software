@@ -1,0 +1,126 @@
+Steel Buildables Cheaper By: Jimk72 
+Ver 1.7
+Had to seperate all glass pieces into a seperate mod called Glass Buildables.
+Ver 1.6
+Added All the roof pieces including HalfPitch, Corner, Flat, Ramp, and Inverse pieces. Also added half/quarter pices. 
+Ver 1.5
+Added Large and Small steel Signs, Steel shelves, and wall placeable Crate with shelf, several new glass building pieces, and redid glass and beams.
+Ver 1.4
+Reduced crafting costs for Titanium, added Aluminium to reduce weight.
+Added:
+Double Door Pieces.
+Ver1.3
+Fixed:
+Snap placement for Fireplaces and ladders in floor pieces.
+Added:
+Fireplace, Chimney cap, Half cap, and Extension. 
+Steel Cupboard, Steel Crate.
+Inverted Angle pieces.
+Glass Wall, Ramp, Roof that is crafted in the Glassworking_Bench so it works as greenhouse. These are same as default glass buildables but use my models. The selectable window glass in the Steel Floor, Steel Wall, Steel Ramp are different from these and do not provide the greenhouse effect.
+
+       This mod adds a new tier of building materials. All pieces are crafted in the tier4 Foundry, crate and cupboard are also crafted in the Fabricator. Holding R will display several different versions of each. There are 6 versions of ramps and floors. 7 different walls, 5 different frames, narrow floor pieces for bridges, all floor and horizontal beams have railing snap, Stairs have angled railing snaps. All pieces are compatible with any other building pieces. All Floors have all the snaps for fireplace as well as ladders.
+
+Steel Door:
+Titanium_Ingot 2
+Aluminium 2
+Steel_Ingot 8
+Iron_Ingot 10
+Steel_Screw 10
+Glass 4
+
+Steel Bed:
+Titanium_Ingot 4
+Aluminium 4
+Steel_Ingot 10
+Steel_Screw 10
+Fur 30
+Leather 10
+
+Steel Steps:
+Titanium_Ingot 4
+Aluminium 4
+Steel_Ingot 10
+Steel_Screw 10
+
+Steel Wall Angle:
+Titanium_Ingot 4
+Aluminium 4
+Steel_Ingot 6
+Steel_Screw 10
+
+Steel Floor:
+Titanium_Ingot 4
+Aluminium 4
+Steel_Ingot 10
+Steel_Screw 10
+
+Steel Railing:
+Steel_Ingot 10
+Steel_Screw 10
+
+Steel Ladder:
+Steel_Ingot 10
+Steel_Screw 10
+
+Steel Half Floor:
+Titanium_Ingot 5
+Steel_Ingot 5
+Steel_Screw 10
+
+Steel Frame:
+Titanium_Ingot 6
+Aluminium 6
+Steel_Ingot 15
+Steel_Screw 18
+
+Steel Wall:
+Titanium_Ingot 4
+Aluminium 4
+Steel_Ingot 10
+Steel_Screw 10
+
+Steel Ramp:
+Titanium_Ingot 4
+Aluminium 4
+Steel_Ingot 10
+Steel_Screw 10
+
+Steel Beam:
+Titanium_Ingot 2
+Aluminium 2
+Steel_Ingot 5
+Steel_Screw 5
+
+Fireplace:
+Titanium_Ingot 4
+Aluminium 4
+Steel_Ingot 15
+Steel_Screw 12
+
+Chimney Cap:
+Titanium_Ingot 4
+Aluminium 4
+Steel_Ingot 10
+
+Chimney Half Cap:
+Titanium_Ingot 2
+Aluminium 2
+Steel_Ingot 5
+
+Chimney Extension:
+Titanium_Ingot 4
+Aluminium 4
+Steel_Ingot 10
+
+Steel Crate:
+Titanium_Ingot 2
+Aluminium 2
+Steel_Ingot 8
+Steel_Screw 12
+
+Steel Cupboard:
+Titanium_Ingot 3
+Aluminium 3
+Steel_Ingot 16
+Steel_Screw 24
+

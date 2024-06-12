@@ -1,0 +1,1 @@
+"C:\WorkSpace\Icarus\Icarus_Mod_Manager_2_1_4\Extracted_Mods\IMM_Merged_Mod\*.*" "..\..\..\Icarus\Content\*.*"

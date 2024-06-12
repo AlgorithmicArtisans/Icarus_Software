@@ -1,0 +1,1320 @@
+{
+    "name": "IMM_Merged_Mod",
+    "author": "Icarus Mod Manager",
+    "fileName": "IMM_Merged_Mod",
+    "version": "1.0",
+    "Level2": "True",
+    "Mods": [
+        {
+            "ModName": "Jimk_LevelingMod",
+            "Rank": 1
+        },
+        {
+            "ModName": "QolPack",
+            "Rank": 2
+        }
+    ],
+    "Rows": [
+        {
+            "CurrentFile": "Character-D_CharacterGrowth.json",
+            "File_Items": [
+                {
+                    "Name": "Player",
+                    "MaxDisplayLevel": 500,
+                    "MaxLevel": 1000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Crafting-D_ProcessorRecipes.json",
+            "File_Items": [
+                {
+                    "Name": "Carbon_Paste",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Silica",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Aluminium",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Organic_Resin",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 2,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Epoxy",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 2,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Electronics",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Gold",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Refined_Copper",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 2,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Organic_Resin",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 2,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Epoxy",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 2,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Electric_Furnace",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Steel_Ingot",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 30,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Glass",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 4,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Electronics",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 20,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Concrete_Mix",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 40,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Steel_Screw",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 8,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Biofuel5",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Cooked_Meat",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 5,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Tree_Sap",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Composite_Paste",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Metal_Ore",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Silica",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Organic_Resin",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Gold_Ore",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Composite_Paste_Plat",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Metal_Ore",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Silica",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Organic_Resin",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Platinum_Ore",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 1,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Material_Processor",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Aluminium",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 30,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Electronics",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 30,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Steel_Screw",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 12,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Titanium_Ingot",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 8,
+                            "DynamicProperties": []
+                        },
+                        {
+                            "Element": {
+                                "RowName": "Carbon_Fiber",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 8,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Jerrycan",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Refined_Metal",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 10,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Stick_Talent",
+                    "RecipeSets": [
+                        {
+                            "RowName": "Mortar_And_Pestle",
+                            "DataTableName": "D_RecipeSets"
+                        },
+                        {
+                            "RowName": "Material_Processor",
+                            "DataTableName": "D_RecipeSets"
+                        },
+                        {
+                            "RowName": "Character",
+                            "DataTableName": "D_RecipeSets"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Inventory-D_InventoryInfo.json",
+            "File_Items": [
+                {
+                    "Name": "Space_Player_Loadout",
+                    "StartingSlots": 30
+                },
+                {
+                    "Name": "DropShip_Equipment",
+                    "StartingSlots": 30
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Items-D_ItemsStatic.json",
+            "File_Items": [
+                {
+                    "Name": "Kit_Extractor",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Extractor"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Extractor"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            },
+                            {
+                                "TagName": "Traits.Inventory"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Kit_Radar",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Radar"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Radar"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Meta_Canteen_Shengong",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Consumable.Water"
+                            },
+                            {
+                                "TagName": "Item.Fillable.Water"
+                            },
+                            {
+                                "TagName": "Item.Equip.Quickbar"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            },
+                            {
+                                "TagName": "MetaItem.Convert.ReplenishFillable"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Consumable.Water"
+                            },
+                            {
+                                "TagName": "Item.Fillable.Water"
+                            },
+                            {
+                                "TagName": "Item.Equip.Quickbar"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Fillable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            },
+                            {
+                                "TagName": "MetaItem.Convert.ReplenishFillable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Meta_Oxygen_Tank_Shengong",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Consumable.Oxygen.OxygenTank"
+                            },
+                            {
+                                "TagName": "Item.Fillable.Oxygen"
+                            },
+                            {
+                                "TagName": "Item.Equip.Quickbar"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            },
+                            {
+                                "TagName": "MetaItem.Convert.ReplenishFillable"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Item.Consumable.Oxygen.OxygenTank"
+                            },
+                            {
+                                "TagName": "Item.Fillable.Oxygen"
+                            },
+                            {
+                                "TagName": "Item.Equip.Quickbar"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Consumable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Fillable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            },
+                            {
+                                "TagName": "MetaItem.Convert.ReplenishFillable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Faction_Mission_Radar",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Radar"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Radar"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Radar_Biofuel",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Radar"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Radar"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            },
+                            {
+                                "TagName": "Traits.Inventory"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Radar_Electric",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Radar"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Radar"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            },
+                            {
+                                "TagName": "Traits.Energy"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Radar_Meta",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Radar"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Radar"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Extractor_Biofuel",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Extractor"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Extractor"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            },
+                            {
+                                "TagName": "Traits.Inventory"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Extractor_Electric",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Extractor"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Extractor"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            },
+                            {
+                                "TagName": "Traits.Inventory"
+                            },
+                            {
+                                "TagName": "Traits.Energy"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                },
+                {
+                    "Name": "Extractor_Meta",
+                    "Manual_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Extractor"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            }
+                        ]
+                    },
+                    "Generated_Tags": {
+                        "GameplayTags": [
+                            {
+                                "TagName": "Audio.Shelter.Check"
+                            },
+                            {
+                                "TagName": "Item.Extractor"
+                            },
+                            {
+                                "TagName": "Item.Meta"
+                            },
+                            {
+                                "TagName": "Traits.Meshable"
+                            },
+                            {
+                                "TagName": "Traits.Itemable"
+                            },
+                            {
+                                "TagName": "Traits.Interactable"
+                            },
+                            {
+                                "TagName": "Traits.Highlightable"
+                            },
+                            {
+                                "TagName": "Traits.Actionable"
+                            },
+                            {
+                                "TagName": "Traits.Usable"
+                            },
+                            {
+                                "TagName": "Traits.Deployable"
+                            },
+                            {
+                                "TagName": "Traits.Durable"
+                            },
+                            {
+                                "TagName": "Traits.Floatable"
+                            },
+                            {
+                                "TagName": "Traits.Inventory"
+                            }
+                        ],
+                        "ParentTags": []
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Items-D_ItemTemplate.json",
+            "File_Items": [
+                {
+                    "Name": "Meta_Canteen_Shengong",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "Fillable_Type",
+                            "Value": 2
+                        },
+                        {
+                            "PropertyType": "Fillable_StoredUnits",
+                            "Value": 6500
+                        }
+                    ]
+                },
+                {
+                    "Name": "Meta_Oxygen_Tank_Shengong",
+                    "ItemDynamicData": [
+                        {
+                            "PropertyType": "Fillable_Type",
+                            "Value": 4
+                        },
+                        {
+                            "PropertyType": "Fillable_StoredUnits",
+                            "Value": 6500
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Prospects-D_ProspectList.json",
+            "File_Items": [
+                {
+                    "Name": "Outpost002_Forest",
+                    "DropName": "NSLOCTEXT(\"D_ProspectList\", \"Outpost002_Forest-DropName\", \"STYX:   Outpost\")",
+                    "DesignNotes": "Styx Outpost",
+                    "FlavourText": "NSLOCTEXT(\"D_ProspectList\", \"Outpost002_Forest-FlavourText\", \"Open untimed access to the full styx map\")",
+                    "ProspectImage": "Texture2D'/Game/Assets/2DArt/UI/ProspectSelect/Images/T_Prospect_Forest_SwampSpearDeer01_Large.T_Prospect_Forest_SwampSpearDeer01_Large'",
+                    "DifficultySetup": {
+                        "Easy": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NoCaveCreatures",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.20000000298023224,
+                            "OverrideWeatherPool": {
+                                "RowName": "CosmeticWeatherPool_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Medium": {
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.20000000298023224,
+                            "OverrideWeatherPool": {
+                                "RowName": "LightWeatherPool_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Hard": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NPC_Increase_Hard",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.30000001192092896,
+                            "OverrideWeatherPool": {
+                                "RowName": "HeavyWeatherPool_2",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Extreme": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NPC_Increase_Hard",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "MapNerf",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.5,
+                            "OverrideWeatherPool": {
+                                "RowName": "Multi_MedToHeavy_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        }
+                    },
+                    "WeatherPool": {
+                        "RowName": "LightWeatherPool_1"
+                    },
+                    "Terrain": {
+                        "RowName": "Terrain_017"
+                    },
+                    "AISpawnConfigOverride": {
+                        "RowName": "Styx"
+                    }
+                },
+                {
+                    "Name": "Outpost003_Arctic",
+                    "DifficultySetup": {
+                        "Easy": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NoCaveCreatures",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "Outpost_Arctic_Easy_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.20000000298023224,
+                            "OverrideWeatherPool": {
+                                "RowName": "CosmeticWeatherPool_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Medium": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "Outpost_Arctic_Medium_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.20000000298023224,
+                            "OverrideWeatherPool": {
+                                "RowName": "MediumWeatherPool_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Hard": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NPC_Increase_Hard",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "Outpost_Arctic_Hard_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.30000001192092896,
+                            "OverrideWeatherPool": {
+                                "RowName": "HeavyWeatherPool_2",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Extreme": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NPC_Increase_Hard",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "Outpost_Arctic_Hard_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "MapNerf",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.5,
+                            "OverrideWeatherPool": {
+                                "RowName": "Multi_MedToHeavy_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "Outpost005_Forest",
+                    "DropName": "NSLOCTEXT(\"D_ProspectList\", \"Outpost005_Forest-DropName\", \"HOLDFAST:   Outpost\")",
+                    "DifficultySetup": {
+                        "Easy": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NoCaveCreatures",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "Outpost_Forest_Easy_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.20000000298023224,
+                            "OverrideWeatherPool": {
+                                "RowName": "CosmeticWeatherPool_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Medium": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "Outpost_Forest_Medium_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.20000000298023224,
+                            "OverrideWeatherPool": {
+                                "RowName": "MediumWeatherPool_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Hard": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NPC_Increase_Hard",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "Outpost_Forest_Hard_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.30000001192092896,
+                            "OverrideWeatherPool": {
+                                "RowName": "HeavyWeatherPool_2",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Extreme": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NPC_Increase_Hard",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "Outpost_Forest_Hard_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "MapNerf",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.5,
+                            "OverrideWeatherPool": {
+                                "RowName": "Multi_MedToHeavy_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "Outpost006_Olympus",
+                    "DropName": "NSLOCTEXT(\"D_ProspectList\", \"Outpost006_Olympus-DropName\", \"DAYLIGHT:   Olympus\")",
+                    "DifficultySetup": {
+                        "Easy": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NoCaveCreatures",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "Outpost_Olympus_Easy_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.20000000298023224,
+                            "OverrideWeatherPool": {
+                                "RowName": "CosmeticWeatherPool_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Medium": {
+                            "DifficultyStats": [],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.20000000298023224,
+                            "OverrideWeatherPool": {
+                                "RowName": "LightWeatherPool_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Hard": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NPC_Increase_Hard",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "Outpost_Olympus_Hard_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.30000001192092896,
+                            "OverrideWeatherPool": {
+                                "RowName": "HeavyWeatherPool_2",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        },
+                        "Extreme": {
+                            "DifficultyStats": [
+                                {
+                                    "RowName": "NPC_Increase_Hard",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "Outpost_Olympus_Hard_Creatures",
+                                    "DataTableName": "D_ProspectStats"
+                                },
+                                {
+                                    "RowName": "MapNerf",
+                                    "DataTableName": "D_ProspectStats"
+                                }
+                            ],
+                            "bOverrideWeather": true,
+                            "OverrideWeatherPercentageCurve": "None",
+                            "OverrideFallbackWeatherPercentage": 0.5,
+                            "OverrideWeatherPool": {
+                                "RowName": "Multi_MedToHeavy_1",
+                                "DataTableName": "D_WeatherPools"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}

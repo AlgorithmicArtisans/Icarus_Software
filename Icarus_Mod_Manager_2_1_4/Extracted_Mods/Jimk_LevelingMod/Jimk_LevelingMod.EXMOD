@@ -1,0 +1,25 @@
+{
+    "name": "Jimk LevelingMod",
+    "author": "Jimk72",
+    "version": "3.2",
+    "fileName": "Jimk_LevelingMod",
+    "imageURL": "",
+    "readmeURL": "",
+    "description": "Increases Display Level to 500, Max talents at level 200. Follows games default curve.",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Character-D_CharacterGrowth.json",
+            "File_Items": [
+                {
+                    "Name": "Player",
+                    "MaxDisplayLevel": 500,
+                    "MaxLevel": 1000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
