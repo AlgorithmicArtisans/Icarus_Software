@@ -1,4 +1,56 @@
-# Icarus Mod Manager 2.1 
+# Icarus Mod Manager 2.2 
+
+## 8/17/24 Ver 2.2.1
+
+-Unlocked the Full UI editor(Right click in the json editor and select Open UI Editor)
+
+-Removed the right click menu in the settings form that used to allow edits.
+
+-Fixed another pop up that has no text.
+
+## 8/15/24 Ver 2.2.0
+
+-Fixed rename mod issues.
+
+-Added ability to unpak games pak files just like my mod editor(Make sure Mod developement is enabled in settings) You will also need to add the oodle compression plugin to your unrealPak folder!
+
+-Fixed issues with no text displaying when checking for update.
+
+-Added option to refresh database and update local files to save time when you dont need to update all local images/text files.
+
+-added several new menu items when right clicking in the editing screen.
+
+## 7/30/24 Ver 2.1.9
+
+-Fixed several small bugs.
+
+-Redid the whole unpak function to be more reliable with extremely large pak files.
+
+-Several new features for modders in the edit mod screen.
+
+-Changed the outdated mods date system to be compatible with other locals.
+
+-Several backend changes for the new features coming out in 2.2.0 :)
+
+## 6/30/24 Ver 2.1.8
+
+-Improved the Merge efficiency.
+
+-Background changes to clean up code.
+
+-Added option in settings to hide Log updates when merging mods.
+
+-Added progress bar for merging mods so you can see how far along it is.
+
+-Changed wording on merge conflicts to hopefully be more clear on what the conflict is and the options avail. 
+
+## 6/29/24 Ver 2.1.7
+
+-Improved the Merge efficiency.
+
+## 6/16/24 Ver 2.1.6
+
+-Fixed bug with multiple new Items with same name not being added to pak file.
 
 ## 5/29/24 Ver 2.1.5
 
